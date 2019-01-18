@@ -25,4 +25,7 @@ app.listen(3000, ()=>{
     console.log('Start port on 3000')
 })
 
+module.exports = {
+    app
+}
 
